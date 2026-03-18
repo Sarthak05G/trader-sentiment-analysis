@@ -14,8 +14,6 @@ Analyze how Bitcoin Fear/Greed sentiment impacts trader behavior and performance
 ---
 
 
----
-
 ## How to Run
 1. Clone the repository
 2. Install dependencies: pip install -r requirements.txt
