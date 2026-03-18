@@ -13,16 +13,6 @@ Analyze how Bitcoin Fear/Greed sentiment impacts trader behavior and performance
 
 ---
 
-## Key Insights
-1. [Your Insight 1]
-2. [Your Insight 2]
-3. [Your Insight 3]
-
----
-
-## Strategy Recommendations
-1. [Strategy Rule 1]
-2. [Strategy Rule 2]
 
 ---
 
